@@ -1,0 +1,195 @@
+@font-face {
+    font-family: myFont1;
+    src: url(../Swapnil_Patil_39/Font/AlfaSlabOne-Regular.ttf);
+}
+@font-face {
+    font-family: myFont2;
+    src: url(../Swapnil_Patil_39/Font/Awesome.ttf);
+}
+.menu-wrapper{
+    height: 300mm;
+    width: 180mm;
+    background-color: blanchedalmond;
+    margin-left: 20mm;
+    overflow: hidden;
+}
+
+.box-1{
+    height: 100mm;
+    width: 100mm;
+    background-color: rgb(235, 230, 182);
+    border-radius: 50mm;
+    position: relative;
+    bottom: 70mm;
+    right: 50mm;
+}
+
+.box-2{
+    height: 90mm;
+    width: 90mm;
+    background-color: rgb(235, 230, 182);
+    border-radius: 50mm;
+    position: relative;
+    bottom: 170mm;
+}
+
+.box-3{
+    height: 80mm;
+    width: 80mm;
+    background-color: rgb(235, 230, 182);
+    border-radius: 50mm;
+    position: relative;
+    bottom: 260mm;
+    left: 50mm;
+    
+}
+.header-name{
+   position: absolute;
+   bottom: 100mm;
+   left: 73mm;
+   font-size: 80pt;
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   letter-spacing: 3mm;
+   color: red;
+}
+.menu-name{
+   position: absolute;
+   bottom: 83mm;
+   left: 81mm;
+   color: black;
+   font-size: 65pt;
+   font-family: cursive;
+}
+
+.img1{
+    height: 50mm;
+    width: 80mm;
+    position: relative;
+    bottom: 249mm;
+    left: 50mm;
+    border-radius: 5mm;
+    opacity: 90%;
+}
+.img2{
+    height: 40mm;
+    width: 40mm;
+    position: relative;
+    right: 88mm;
+    bottom: 220mm;
+}
+.img3{
+    height: 70mm;
+    width: 150mm;
+    position: relative;
+    bottom: 220mm;
+    left: 10mm;
+    border-radius: 5mm;
+}
+.cata-Name{
+    height: 60mm;
+    width: 120mm;  
+    position: absolute;
+    bottom: 18mm;
+    left: 40mm;
+      
+}
+.category-name{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 1mm;
+    font-size: 10mm;
+    padding: 0 0 3mm 0;
+}
+.special-item-name{
+    font-size: 5mm;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+}
+.special-item-price{
+    text-align: center;
+    padding: 0;
+    position: relative;
+    bottom: 7mm;
+}
+.img4{
+    height: 60mm;
+    width: 60mm;
+    position: relative;
+    left: 93mm;
+    bottom: 285mm;
+    border-radius: 30mm;
+}
+
+.img5{
+    height: 70mm;
+    width: 150mm;
+    position: absolute;
+    left: 40mm;
+    top: 190mm;
+    border-radius: 5mm;
+}
+.subcategory-name{
+    height: 60mm;
+    width: 75mm;
+    
+    position: relative;
+    bottom: 263mm;
+    left: 90mm;
+    font-size: 10mm;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 1mm;
+}
+.cocktail-item-name{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 5mm;
+    padding: 0;
+    
+}
+.cocktail-item-price{
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:lighter;
+    font-size: 5mm;
+    position: relative;
+    bottom: 7mm;
+    padding: 0;
+}
+.img6{
+    height: 60mm;
+    width: 60mm;
+    position: absolute;
+    border-radius: 30mm;
+    top: 195mm;
+    left: 45mm;
+}
+.footer .order{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 1mm;
+    color: red;
+    position: relative;
+    bottom: 255mm;
+    text-align: center;
+}
+.footer .number{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    position: relative;
+    bottom: 260mm;
+    font-weight: bolder;
+}
+.footer .email{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-align: center;
+    position: relative;
+    bottom: 260mm;
+}
+.img7{
+    height: 30mm;
+    width: 30mm;
+    position: absolute;
+    top: 270mm;
+    left: 160mm;
+
+
+}
